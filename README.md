@@ -25,7 +25,8 @@
 <img src="https://user-images.githubusercontent.com/103383660/188877434-6d8ca9d1-c319-4be3-b0e9-8a5b8e784bbd.png" />
 
 ### 파일 읽어오기
-<img src="https://user-images.githubusercontent.com/103383660/190856983-da9aa3c6-2355-4369-8cfe-4c4eeaa170bb.png" />
+<img src="https://user-images.githubusercontent.com/103383660/190859858-c681f681-8caa-4be1-8ca7-554dc962145b.png" />
+<img src="https://user-images.githubusercontent.com/103383660/190859860-e93102c2-ffd7-44bc-97f6-1c8a8c648719.png" />
 
 ### 파일 내용
 <img src="https://user-images.githubusercontent.com/103383660/190859551-f785aa97-8e15-4c9f-b54c-1adda0a35169.png" />
