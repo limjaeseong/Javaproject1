@@ -26,3 +26,6 @@
 
 ### 파일 읽어오기
 <img src="https://user-images.githubusercontent.com/103383660/190856983-da9aa3c6-2355-4369-8cfe-4c4eeaa170bb.png" />
+
+### 파일 내용
+<img src="https://user-images.githubusercontent.com/103383660/190859551-f785aa97-8e15-4c9f-b54c-1adda0a35169.png" />
